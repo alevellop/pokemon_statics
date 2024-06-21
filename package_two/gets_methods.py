@@ -20,11 +20,3 @@ def get_average_weight(egg_group_name) -> float:
         return None
 
     return egg_group_data['average_weight'].iloc[0]
-
-
-if __name__ == '__main__':
-
-    data = get_egg_groups()
-    data2 = get_average_weight(data[12])
-    print('+'*20)
-    print(data2)
