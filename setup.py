@@ -4,7 +4,7 @@ setup(
     name            = 'pokemon_statics',
     author          = 'alevellop',
     url             = 'https://github.com/alevellop/pokemon_statics',
-    version         = '0.0.2',
+    version         = '0.0.3',
     license         = 'MIT',
     description     = 'Library of pokemon statics',
     keywords        = ['pokemon', 'data', 'api', 'csv', 'dataframe', 'pytest', 'sqlalchemy', 'aiohttp', 'pandas'],
