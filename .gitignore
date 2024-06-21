@@ -1,6 +1,4 @@
 venv/
 .idea/
-pokemon.sqlite
 stats.csv
 instrucciones.py
-package_one/main.py
