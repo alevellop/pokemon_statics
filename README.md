@@ -30,7 +30,6 @@ After installation, run the following code from anywhere:
 ````
 from pokemon_statics.package_two import gets_methods as gm
 
-# returns 8
 result_get_egg_groups = get_egg_groups()
 
 result_get_egg_groups = get_average_height(egg_group_name)
